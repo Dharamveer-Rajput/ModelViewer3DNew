@@ -34,8 +34,6 @@ public class RetrofitLibrary {
 
     private static GitApiInterface gitApiInterface;
 
-    // http://employeelive.com/kwiqmall/API/public/getRestaurants
-
     private static String baseUrl = "https://a3dyou.com:9000/";
 
     public static GitApiInterface getClient() {
